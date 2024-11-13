@@ -25,3 +25,9 @@ img {
   border-radius: 8px;
   margin: 20px 0;
 }
+
+ul,
+ol {
+  padding-left: 20px;
+  margin: 15px 0;
+}
