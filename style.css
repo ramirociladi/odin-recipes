@@ -44,3 +44,8 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+p {
+  margin: 15px 0;
+  color: #34495e;
+}
